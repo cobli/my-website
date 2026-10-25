@@ -5,4 +5,4 @@
 - style.css: 見た目の設定
 
 ## 公開URL
-(第7回で記入します)
+https://cobli.github.io/my-website/
